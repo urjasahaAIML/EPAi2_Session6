@@ -9,7 +9,7 @@
       "comparison": "included",
       "timeout": 20,
       "points": 600
-    }
+    },
 	{
       "name": "test_session_6_decorators",
       "setup": "sudo -H pip3 install pytest",
