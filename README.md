@@ -25,7 +25,7 @@ counter_dict(fn : callable , fn_counter : dict) -> callable
 
 # Decorators:
 
-link: 
+link: https://github.com/tapasML/EPAi2_Session6/blob/main/session_6_decorators.py
 
 
 ## allows a function to run only on odd seconds 
