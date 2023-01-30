@@ -2,7 +2,7 @@
 
 # Closures:
 
-link:  https://github.com/tapasML/EPAi2_Session6/blob/main/session_6_closures.py
+link:  https://github.com/urjasahaAIML/EPAi2_Session6/blob/main/session_6_closures.py
 
 ## Write a closure that takes a function and then check whether the function passed has a docstring with more than 50 characters. 50 is stored as a free variable - 
 
@@ -25,7 +25,7 @@ counter_dict(fn : callable , fn_counter : dict) -> callable
 
 # Decorators:
 
-link: https://github.com/tapasML/EPAi2_Session6/blob/main/session_6_decorators.py
+link: https://github.com/urjasahaAIML/EPAi2_Session6/blob/main/session_6_decorators.py
 
 
 ## allows a function to run only on odd seconds 
